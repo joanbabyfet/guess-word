@@ -5,7 +5,9 @@ A simple and fun word guessing game.
 ## 🎮 Play
 
 **Play Online:**
-https://testgame.moosasa.com/guess-word/
+
+- [简体中文](https://testgame.moosasa.com/guess-word/?lang=zh-CN)
+- [繁體中文](https://testgame.moosasa.com/guess-word/?lang=zh-TW)
 
 ## ✨ Features
 
@@ -21,7 +23,6 @@ https://testgame.moosasa.com/guess-word/
 
 * 繁體中文
 * 简体中文
-* English
 
 ## 🛠 Tech Stack
 
