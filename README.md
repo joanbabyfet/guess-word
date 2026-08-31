@@ -19,10 +19,71 @@ A simple and fun word guessing game.
 * Mobile-friendly
 * Supports multiple languages
 
-## 🌍 Languages
+## 📁 Project Structure
 
-* 繁體中文
-* 简体中文
+```text
+guess-word/
+├── assets/
+│   ├── audio/
+│   │   ├── bgm.mp3
+│   │   ├── click.mp3
+│   │   ├── correct.mp3
+│   │   ├── wrong.mp3
+│   │   └── complete.mp3
+│   │
+│   ├── scenes/
+│   │   ├── home.scene
+│   │   ├── game.scene
+│   │   ├── result.scene
+│   │   ├── complete.scene
+│   │   └── rank.scene
+│   │
+│   └── scripts/
+│       ├── component/
+│       │   └── choose_btn.ts
+│       │
+│       ├── controller/
+│       │   ├── home_controller.ts
+│       │   ├── game_controller.ts
+│       │   ├── result_controller.ts
+│       │   ├── complete_controller.ts
+│       │   └── rank_controller.ts
+│       │
+│       ├── manager/
+│       │   ├── game_manager.ts
+│       │   ├── audio_manager.ts
+│       │   ├── i18n_manager.ts
+│       │   ├── ad_manager.ts
+│       │   ├── toast_manager.ts
+│       │   └── storage_manager.ts
+│       │
+│       ├── model/
+│       │   ├── game_result.ts
+│       │   └── question.ts
+│       │
+│       ├── data/
+│       │   └── question_data.ts
+│       │
+│       └── service/
+│           ├── api_client.ts
+│           └── game_service.ts
+│
+├── settings/
+├── package.json
+└── README.md
+```
+
+### Client
+
+```text
+Controller
+    ↓
+Manager
+    ↓
+Service
+    ↓
+ApiClient
+```
 
 ## 🛠 Tech Stack
 
@@ -32,6 +93,11 @@ A simple and fun word guessing game.
 * REST API
 * Google Analytics 4
 * Google AdSense
+
+## 🌍 Languages
+
+* 繁體中文
+* 简体中文
 
 ## 📸 Screenshots
 
