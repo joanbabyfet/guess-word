@@ -26,7 +26,7 @@ A simple and fun word guessing game.
 
 ## 🛠 Tech Stack
 
-* Cocos Creator
+* Cocos Creator 3.8
 * TypeScript
 * HTML5
 * REST API
@@ -37,19 +37,23 @@ A simple and fun word guessing game.
 
 ### Home
 
-![Home](screenshots/home.png)
+<img src="screenshots/home.png" width="280">
 
 ### Game
 
-![Game](screenshots/game.png)
+<img src="screenshots/game.png" width="280">
 
 ### Result
 
-![Result](screenshots/result.png)
+<img src="screenshots/result.png" width="280">
+
+### Complete
+
+<img src="screenshots/complete.png" width="280">
 
 ### Ranking
 
-![Ranking](screenshots/rank.png)
+<img src="screenshots/rank.png" width="280">
 
 ## 📱 Platform
 
