@@ -6,8 +6,7 @@ A simple and fun word guessing game.
 
 **Play Online:**
 
-- [简体中文](https://testgame.moosasa.com/guess-word/?lang=zh-CN)
-- [繁體中文](https://testgame.moosasa.com/guess-word/?lang=zh-TW)
+- [https://guoxue.moosasa.com](https://guoxue.moosasa.com)
 
 ## ✨ Features
 
